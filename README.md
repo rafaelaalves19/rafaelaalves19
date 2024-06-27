@@ -1,9 +1,10 @@
 ## Hi there 👋
 
--  🔭 I’m currently working as a Data Analyst at Accenture (Dublin)
--  🌱 I’m currently learning Python for D.A. and also studying different courses to help me expanding my portfolio
+-  ✨ Couple of years ago I did a career transition from Marketing to IT. In 2021 I graduated in Computer Science and afterwards I remained studying Data Analytics, which is my topic of interest (so far). I recently completed a bootcamp in D.A, at Le Wagon and now I've worked on my portfolio.   
+-  🔭 I’m currently working as a Data Analyst at Accenture (Dublin). I am a Training Coordinator dealing with the data from new joiners in training.
+-  🌱 I’m currently learning Python and also studying about investments 💰
 -  📫 How to reach me: rafaelaalves.rla@gmail.com
--  😄 Pronouns: she/her
+-  👯 Pronouns: she/her
 -  ⚡ Fun fact: I can only super focous if I'm listing to brown noise 
 
 <!--
