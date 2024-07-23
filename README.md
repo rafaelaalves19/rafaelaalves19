@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rafaela 👋</h1>
 <h4 align="center">✨ Couple of years ago I did a career transition from Marketing to IT. <br>
   👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying Data Analytics, which is my topic of interest. <br>
-  👩🏻‍💻 I recently completed a bootcamp in D.A, at Le Wagon and now I've worked on my portfolio.</h4> <br>
+  👩🏻‍💻 I recently completed a bootcamp in D.A. at Le Wagon and now I've worked on my portfolio.</h4> <br>
 
 - 🔭 I’m currently working as **a Data Analyst in Accenture**
 
