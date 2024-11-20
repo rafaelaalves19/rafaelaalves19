@@ -1,4 +1,4 @@
-<h4 align="center">
+<h4 align="left">
   👋 Hi, I'm Rafaela <br>
   ✨ I have a background in Marketing (worked in the Retail industry for long years) and in 2020 I did a career transition into IT. <br>
   👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying and working with Data Analytics. <br>
