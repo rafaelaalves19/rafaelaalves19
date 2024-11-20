@@ -1,15 +1,11 @@
-<h4 align="center">Hi, I'm Rafaela 👋</h4>
-<h4 align="center">✨ Couple of years ago I did a career transition from Marketing into IT. <br>
-  👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying Data Analytics. <br>
-  👩🏻‍💻 I am currently doing a Portgraduate in Social Data Science at Trinity College Dublin. </h4> <br>
+<h4 align="center">
+  👋 Hi, I'm Rafaela <br>
+  ✨ I have a background in Marketing (worked in the Retail industry for long years) and in 2020 I did a career transition into IT. <br>
+  👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying and working with Data Analytics. <br>
+  👩🏻‍💻 Currently I'm doing a Portgraduate course in Social Data Science at Trinity College Dublin.  <br>
+  🌱 I’m currently learning **R and Python** <br>
+  📫 How to reach me **rafaelaalves.rla@gmail.com** </h4> <br> 
 
-- 🔭 I also have work experience as a **Data Analyst in Accenture**
-
-- 🌱 I’m currently learning **R and Python**
-
-- 📫 How to reach me **rafaelaalves.rla@gmail.com**
-
-- ⚡ Fun fact **I can only super focus if I'm listing to brown noise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
