@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafaela 👋</h1>
+<h4 align="center">Hi, I'm Rafaela 👋</h4>
 <h4 align="center">✨ Couple of years ago I did a career transition from Marketing into IT. <br>
   👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying Data Analytics. <br>
   👩🏻‍💻 I am currently doing a Portgraduate in Social Data Science at Trinity College Dublin. </h4> <br>
