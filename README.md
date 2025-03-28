@@ -1,7 +1,7 @@
 <h4 align="left">
   👋 Hi, I'm Rafaela <br>
   ✨ I have a background in Marketing (worked in the Retail industry for long years) and in 2020 I did a career transition into IT <br>
-  👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying and working with Data Analytics <br>
+  👩🏻‍🎓 I graduated in Computer Science and afterwards I remained studying and working with Data Analysis <br>
   👩🏻‍💻 Currently I'm doing a Portgraduate course in Social Data Science at Trinity College Dublin  <br>
   🌱 I’m currently learning R and Python <br>
   📫 How to reach me: rafaelaalves.rla@gmail.com </h4> <br> 
